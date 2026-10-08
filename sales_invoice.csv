@@ -1,0 +1,6 @@
+InvoiceNumber,InvoiceDate,DueDate,CustomerID,CustomerName,BillingAddress,ItemCode,Description,Quantity,UnitPrice,TaxRate,Subtotal,TaxAmount,TotalAmount
+INV-2026-001,2026-10-01,2026-11-01,CUST-104,Acme Corporation,"123 Innovation Way, Tech City",PROD-001,Cloud Hosting Premium Plan,2,150.0,0.18,300.0,54.0,354.0
+INV-2026-001,2026-10-01,2026-11-01,CUST-104,Acme Corporation,"123 Innovation Way, Tech City",PROD-008,SSL Certificate Annual Renewal,1,49.99,0.18,49.99,9.0,58.99
+INV-2026-002,2026-10-02,2026-11-02,CUST-209,Global Industries,"456 Enterprise Blvd, Commerce Hub",SERV-003,IT Architecture Consulting,15,120.0,0.18,1800.0,324.0,2124.0
+INV-2026-003,2026-10-03,2026-11-03,CUST-012,Nexus Tech Ltd,"789 Cyber Park, Digital Zone",PROD-012,Hardware Server Rack v2,1,1200.0,0.12,1200.0,144.0,1344.0
+INV-2026-003,2026-10-03,2026-11-03,CUST-012,Nexus Tech Ltd,"789 Cyber Park, Digital Zone",SERV-001,Network Setup Service,4,85.0,0.18,340.0,61.2,401.2
